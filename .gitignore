@@ -26,9 +26,9 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-
+the.py
 end.py
-
+Raoo.py
 hussnain.py
 
 # PyInstaller
