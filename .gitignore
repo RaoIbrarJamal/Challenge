@@ -6,7 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-Rao.txt
 
 # Distribution / packaging
 .Python
@@ -37,6 +36,9 @@ MANIFEST
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
+
+Rao.txt
+
 
 # Unit test / coverage reports
 htmlcov/
